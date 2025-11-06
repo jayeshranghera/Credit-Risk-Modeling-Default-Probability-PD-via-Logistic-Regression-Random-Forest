@@ -1,5 +1,9 @@
 # Credit Risk Modeling — Default Probability (PD) via Logistic Regression & Random Forest
 
+This project is part of the **JPMorgan Chase & Co. Virtual Job Simulation (Forage Platform)**.  
+All code and analysis are written by me based on the tasks provided in the simulation.
+
+
 ## Overview
 Builds and compares baseline classifiers (Logistic Regression, Random Forest) to predict loan default (PD). Includes train/test split, metrics (accuracy, confusion matrix, ROC AUC), and model comparison.
 
